@@ -1,2 +1,3 @@
 # hello-world
-for practicing github flow
+i like to cook.
+this is my first repo
